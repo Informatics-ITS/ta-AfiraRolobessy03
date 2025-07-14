@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: [Afira Rolobessy]  
+**NRP**: [5025201006]  
+**Judul TA**: [ANALISIS KESESUAIAN LAPISAN BISNIS DAN APLIKASI ARCHIMATE MENGGUNAKAN NEO4J]  
+**Dosen Pembimbing**: [Ir. Adhatus Solichah Ahmadiyah, S.Kom., M.Sc.]  
+**Dosen Ko-pembimbing**: [Dr. Kelly Rossa Sungkono, S.Kom., M.Kom.]
 
 ---
 
